@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "unsupervised"
+version = "0.1.0"
+description = "This package contains code for some labs for the course Machine learning II"
+authors = ["Alejandro Martinez <alejandro.martinezh@udea.edu.co>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.4"
+scikit-learn = "^1.4.1.post1"
+pandas = "^2.2.0"
+matplotlib = "^3.8.3"
+Pillow-PIL = "^0.1.dev0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
