@@ -9,7 +9,7 @@ email: alejandro.martinezh@udea.edu.co
 
 
 Please go to **Lab1.ipynb notebook** to find all the results of the lab. 
-It is important to note that the images folder is protected by password. I send the latter to your email. It is important to unzip it before running the project in the notebook.
+It is important to note that the images folder is protected by password. I send the latter to your email. Unzip it before running the project in the notebook.
 
 The project has the following structure:
 
